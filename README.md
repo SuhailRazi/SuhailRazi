@@ -5,7 +5,7 @@
 
 ###
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=950&lines=I'm+a+MERN+Stack+Developer;Improving+knowledge+in+front+end+developing;I'm+a+Self+Learner" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=950&lines=I'm+a+MERN+Stack+Developer;Improving+knowledge+in+full+stack+developing;I'm+a+Self+Learner" alt="Typing SVG" /></a>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">📚 Self Learner<br>MERN Stack Developer<br>⚛Trained React.js/Next.js Developer<br>📱I’m currently studying Mobile App(Flutter)<br>🤝 Always ready to work in a place where i could develop my skill-set.<br>🌐Personal Website <a href="https://suhailrazi.github.io/Resume.github.io/" target="_blank">Visit</a></p>
+<p align="left">📚 Self Learner<br>👨‍💻MERN Stack Developer<br>⚛Trained React.js/Next.js Developer<br>📱I’m currently studying Mobile App(Flutter)<br>🤝 Always ready to work in a place where i could develop my skill-set.<br>🌐Personal Website <a href="https://suhailrazi.github.io/Resume.github.io/" target="_blank">Visit</a></p>
 
 
 ###
