@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">📚 Self Learner<br>👨‍💻MERN Stack Developer<br>⚛Trained React.js/Next.js Developer<br>📱I’m currently studying Mobile App(Flutter)<br>🤝 Always ready to work in a place where i could develop my skill-set.<br>🌐Personal Website <a href="https://suhailrazi.github.io/Resume.github.io/" target="_blank">Visit</a></p>
+<p align="left">📚 Self Learner<br>👨‍💻MERN Stack Developer<br>⚛Trained React.js/Next.js Developer<br>📱I’m currently studying Mobile App-React_Native<br>🤝 Always ready to work in a place where i could develop my skill-set.<br>🌐Personal Website <a href="https://suhailrazi.github.io/Resume.github.io/" target="_blank">Visit</a></p>
 
 
 ###
